@@ -3,10 +3,11 @@
 led using gcc 5.4.0 and shows forward compatibility (better than the libcantera-deve
 l in conda). It can be used for OpenFOAM+Cantera.
 
-## download the lib
+## download the lib (`git tag` will show all the available versions)
 ```
 git clone https://github.com/ZmengXu/Pre-compiledCantera.git
 cd Pre-compiledCantera
+git tag
 ```
 
 ## switch to specific version, e.g., v2.6.0
